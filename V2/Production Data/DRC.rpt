@@ -1,0 +1,347 @@
+** Drc report for V1.kicad_pcb **
+** Created on 2024-11-02T18:56:44+0500 **
+
+** Found 91 DRC violations **
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; error
+    @(111.5000 mm, 107.7000 mm): Reference 'SW1'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; error
+    @(111.0000 mm, 96.2000 mm): Reference 'U7'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; error
+    @(113.8000 mm, 106.7700 mm): Reference 'R1'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; error
+    @(111.9700 mm, 104.1000 mm): Reference 'R16'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; error
+    @(110.4000 mm, 95.0300 mm): Reference 'R21'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; error
+    @(134.3000 mm, 103.1000 mm): Reference 'RN1'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; error
+    @(114.1000 mm, 93.3000 mm): Reference 'Q1'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; error
+    @(108.5000 mm, 103.3400 mm): Reference 'C20'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; error
+    @(115.5000 mm, 107.8000 mm): Reference 'SW2'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; error
+    @(106.5700 mm, 105.9000 mm): Reference 'R8'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; error
+    @(111.7300 mm, 104.1000 mm): Reference 'R22'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; error
+    @(108.5200 mm, 102.3700 mm): Reference 'C18'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; error
+    @(108.6300 mm, 104.1000 mm): Reference 'R17'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; error
+    @(120.0400 mm, 105.7000 mm): Reference 'C17'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; error
+    @(110.6000 mm, 93.3000 mm): Reference 'Q2'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; error
+    @(124.3000 mm, 102.1000 mm): Reference 'AE1'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; error
+    @(106.5400 mm, 105.9000 mm): Reference 'C6'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; error
+    @(106.6000 mm, 106.2500 mm): Reference 'L1'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; error
+    @(113.0700 mm, 104.1000 mm): Reference 'R18'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; error
+    @(119.0240 mm, 104.3703 mm): Reference 'U3'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; error
+    @(122.7500 mm, 102.0500 mm): Circle on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; error
+    @(102.5300 mm, 106.7000 mm): Reference 'C5'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; error
+    @(105.4300 mm, 105.9000 mm): Reference 'R7'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; error
+    @(120.7000 mm, 105.5700 mm): Reference 'R15'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; error
+    @(120.8000 mm, 102.6500 mm): Reference 'C16'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; error
+    @(112.4000 mm, 97.3700 mm): Reference 'R20'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; error
+    @(107.7400 mm, 105.9000 mm): Reference 'C7'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(114.1000 mm, 93.3000 mm): Reference 'Q1'
+    @(115.5500 mm, 93.5000 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(114.1000 mm, 93.3000 mm): Reference 'Q1'
+    @(112.6500 mm, 93.1000 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(110.6000 mm, 93.3000 mm): Reference 'Q2'
+    @(112.0500 mm, 93.5000 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(113.6100 mm, 97.3900 mm): Segment on F.Silkscreen
+    @(112.4000 mm, 97.3700 mm): Reference 'R20'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(112.4000 mm, 97.3700 mm): Reference 'R20'
+    @(112.8850 mm, 97.3900 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(120.8000 mm, 102.6500 mm): Reference 'C16'
+    @(121.9000 mm, 102.8000 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(113.8000 mm, 106.7700 mm): Reference 'R1'
+    @(115.5000 mm, 107.8000 mm): Reference 'SW2'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(113.0700 mm, 104.1000 mm): Reference 'R18'
+    @(111.9700 mm, 104.1000 mm): Reference 'R16'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(111.5000 mm, 107.7000 mm): Reference 'SW1'
+    @(113.2500 mm, 108.2000 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(113.8000 mm, 106.7700 mm): Reference 'R1'
+    @(113.7500 mm, 107.3000 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(115.5000 mm, 107.8000 mm): Reference 'SW2'
+    @(113.7500 mm, 107.5000 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(115.5000 mm, 107.8000 mm): Reference 'SW2'
+    @(113.7500 mm, 107.3000 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(115.5000 mm, 107.8000 mm): Reference 'SW2'
+    @(114.4500 mm, 107.0000 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(111.9700 mm, 104.1000 mm): Reference 'R16'
+    @(111.7300 mm, 104.1000 mm): Reference 'R22'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(111.9700 mm, 104.1000 mm): Reference 'R16'
+    @(112.5200 mm, 104.2536 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(113.0700 mm, 104.1000 mm): Reference 'R18'
+    @(112.5200 mm, 104.2536 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(113.2800 mm, 104.2536 mm): Segment on F.Silkscreen
+    @(113.0700 mm, 104.1000 mm): Reference 'R18'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(111.5000 mm, 107.7000 mm): Reference 'SW1'
+    @(112.5750 mm, 106.9000 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(108.3922 mm, 104.8600 mm): Segment on F.Silkscreen
+    @(108.6300 mm, 104.1000 mm): Reference 'R17'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(107.7400 mm, 105.9000 mm): Reference 'C7'
+    @(108.6300 mm, 104.1000 mm): Reference 'R17'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(108.5000 mm, 103.3400 mm): Reference 'C20'
+    @(108.4122 mm, 103.8900 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(108.3922 mm, 104.1400 mm): Segment on F.Silkscreen
+    @(108.6300 mm, 104.1000 mm): Reference 'R17'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(108.0600 mm, 106.0078 mm): Segment on F.Silkscreen
+    @(107.7400 mm, 105.9000 mm): Reference 'C7'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(107.7400 mm, 105.9000 mm): Reference 'C7'
+    @(106.6000 mm, 106.2500 mm): Reference 'L1'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(106.5700 mm, 105.9000 mm): Reference 'R8'
+    @(106.5400 mm, 105.9000 mm): Reference 'C6'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(108.5000 mm, 103.3400 mm): Reference 'C20'
+    @(108.5200 mm, 102.3700 mm): Reference 'C18'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(108.5200 mm, 102.3700 mm): Reference 'C18'
+    @(108.6300 mm, 104.1000 mm): Reference 'R17'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(108.5200 mm, 102.3700 mm): Reference 'C18'
+    @(109.1150 mm, 102.6100 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(108.5200 mm, 102.3700 mm): Reference 'C18'
+    @(108.3900 mm, 102.6100 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(108.5000 mm, 103.3400 mm): Reference 'C20'
+    @(108.6300 mm, 104.1000 mm): Reference 'R17'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(108.5000 mm, 103.3400 mm): Reference 'C20'
+    @(108.4122 mm, 103.1700 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(108.6300 mm, 104.1000 mm): Reference 'R17'
+    @(108.4122 mm, 103.1700 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(106.5700 mm, 105.9000 mm): Reference 'R8'
+    @(106.2200 mm, 106.0536 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(106.5700 mm, 105.9000 mm): Reference 'R8'
+    @(106.6000 mm, 106.2500 mm): Reference 'L1'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(106.5400 mm, 105.9000 mm): Reference 'C6'
+    @(106.6000 mm, 106.2500 mm): Reference 'L1'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(106.6000 mm, 106.2500 mm): Reference 'L1'
+    @(105.4300 mm, 105.9000 mm): Reference 'R7'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(105.7800 mm, 105.7464 mm): Segment on F.Silkscreen
+    @(105.4300 mm, 105.9000 mm): Reference 'R7'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(106.5700 mm, 105.9000 mm): Reference 'R8'
+    @(105.4300 mm, 105.9000 mm): Reference 'R7'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(105.0200 mm, 105.7464 mm): Segment on F.Silkscreen
+    @(105.4300 mm, 105.9000 mm): Reference 'R7'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(105.4300 mm, 105.9000 mm): Reference 'R7'
+    @(106.5400 mm, 105.9000 mm): Reference 'C6'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(102.5300 mm, 106.7000 mm): Reference 'C5'
+    @(104.3000 mm, 107.5100 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(106.5400 mm, 105.9000 mm): Reference 'C6'
+    @(106.2200 mm, 106.0536 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(106.5700 mm, 105.9000 mm): Reference 'R8'
+    @(106.9800 mm, 106.0536 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(106.5400 mm, 105.9000 mm): Reference 'C6'
+    @(106.9800 mm, 106.0536 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(107.3400 mm, 106.0078 mm): Segment on F.Silkscreen
+    @(107.7400 mm, 105.9000 mm): Reference 'C7'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(106.6000 mm, 106.2500 mm): Reference 'L1'
+    @(106.9800 mm, 106.0536 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(111.7300 mm, 104.1000 mm): Reference 'R22'
+    @(111.1800 mm, 103.9464 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(111.9700 mm, 104.1000 mm): Reference 'R16'
+    @(112.2800 mm, 103.9464 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(111.9700 mm, 104.1000 mm): Reference 'R16'
+    @(111.5200 mm, 103.9464 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(111.7300 mm, 104.1000 mm): Reference 'R22'
+    @(112.2800 mm, 103.9464 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(111.7300 mm, 104.1000 mm): Reference 'R22'
+    @(111.5200 mm, 103.9464 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(120.0400 mm, 105.7000 mm): Reference 'C17'
+    @(120.7000 mm, 105.5700 mm): Reference 'R15'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(120.8400 mm, 105.8078 mm): Segment on F.Silkscreen
+    @(120.7000 mm, 105.5700 mm): Reference 'R15'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(120.0400 mm, 105.7000 mm): Reference 'C17'
+    @(119.0240 mm, 104.3703 mm): Reference 'U3'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(120.0400 mm, 105.7000 mm): Reference 'C17'
+    @(119.4400 mm, 104.5000 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(119.0240 mm, 104.3703 mm): Reference 'U3'
+    @(118.6500 mm, 103.7100 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(120.0400 mm, 105.7000 mm): Reference 'C17'
+    @(120.8536 mm, 104.7800 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(119.4400 mm, 104.5000 mm): Segment on F.Silkscreen
+    @(119.0240 mm, 104.3703 mm): Reference 'U3'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(121.5000 mm, 102.8000 mm): Segment on F.Silkscreen
+    @(120.8000 mm, 102.6500 mm): Reference 'C16'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(110.4000 mm, 95.0300 mm): Reference 'R21'
+    @(109.1000 mm, 94.9500 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(110.4000 mm, 95.0300 mm): Reference 'R21'
+    @(110.6000 mm, 93.3000 mm): Reference 'Q2'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(110.6000 mm, 93.3000 mm): Reference 'Q2'
+    @(109.1500 mm, 93.1000 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(111.0000 mm, 96.2000 mm): Reference 'U7'
+    @(110.2464 mm, 96.5800 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; error
+    @(111.0000 mm, 96.2000 mm): Reference 'U7'
+    @(110.2464 mm, 95.8200 mm): Segment on F.Silkscreen
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **

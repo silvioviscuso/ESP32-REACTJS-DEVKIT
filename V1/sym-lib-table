@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "obsidian-boa")(type "KiCad")(uri "${KIPRJMOD}/../lib/obsidian-boa.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32-D0WD")(type "KiCad")(uri "${KIPRJMOD}/ESP32-D0WD.kicad_sym")(options "")(descr ""))
+  (lib (name "CP2102")(type "KiCad")(uri "${KIPRJMOD}/CP2102.kicad_sym")(options "")(descr ""))
+  (lib (name "SS8050-G")(type "KiCad")(uri "${KIPRJMOD}/SS8050-G.kicad_sym")(options "")(descr ""))
+  (lib (name "EVP-BB2A9B000")(type "KiCad")(uri "${KIPRJMOD}/EVP-BB2A9B000.kicad_sym")(options "")(descr ""))
+)
