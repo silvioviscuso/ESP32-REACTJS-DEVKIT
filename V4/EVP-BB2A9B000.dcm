@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EVP-BB2A9B000
+D Tactile Switches 2.6x1.6mm 1.6N 0.11mm travel IP67
+K
+F https://industrial.panasonic.com/ac/cdn/e/control/switch/light-touch/catalog/sw_lt_eng_2616s.pdf
+$ENDCMP
+#
+#End Doc Library
