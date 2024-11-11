@@ -1,0 +1,76 @@
+Plugin v0.0.1 running on KiCad 8.0.6 and Python 3.11.5 (main, Aug 14 2024, 05:26:19) [MSC v.1939 64 bit (AMD64)] on win32.
+Config file C:\Users\silvi\Desktop\ESP32-REACTJS-DEVKIT\V4\V1.kicad_pcb.hierpcb.json not found. Creating new one.
+Imported C:\Users\silvi\Desktop\ESP32-REACTJS-DEVKIT\V4\V1.kicad_pcb, with 67 footprints, 549 tracks, and 43 drawings.
+Footprint REF** is not on a sheet, skipping...
+Footprint REF** is not on a sheet, skipping...
+Footprint REF** is not on a sheet, skipping...
+Footprint G*** is not on a sheet, skipping...
+Root (+ PCB C:\Users\silvi\Desktop\ESP32-REACTJS-DEVKIT\V4\V1.kicad_pcb)
+Missing path: REF** (C:\Users\silvi\Desktop\ESP32-REACTJS-DEVKIT\V4\V1.kicad_pcb)
+Missing path: REF** (C:\Users\silvi\Desktop\ESP32-REACTJS-DEVKIT\V4\V1.kicad_pcb)
+Missing path: REF** (C:\Users\silvi\Desktop\ESP32-REACTJS-DEVKIT\V4\V1.kicad_pcb)
+Missing path: G*** (C:\Users\silvi\Desktop\ESP32-REACTJS-DEVKIT\V4\V1.kicad_pcb)
+PCB C:\Users\silvi\Desktop\ESP32-REACTJS-DEVKIT\V4\V1.kicad_pcb
+  /00000000: SW1
+  /00000000: P25
+  /00000000: P28
+  /00000000: P7
+  /00000000: P18
+  /00000000: P17
+  /00000000: P15
+  /00000000: P12
+  /00000000: P14
+  /00000000: P13
+  /00000000: P9
+  /00000000: P8
+  /00000000: D3
+  /00000000: C9
+  /00000000: P31
+  /00000000: P30
+  /00000000: P11
+  /00000000: P10
+  /00000000: P16
+  /00000000: J1
+  /00000000: C19
+  /00000000: R13
+  /00000000: R10
+  /00000000: C12
+  /966a6d8d: U7
+  /5e0c7d02: R1
+  /fc27a9fb: U5
+  /9e53b2cd: C3
+  /1a2c0136: U4
+  /a0811671: R16
+  /46dd5009: R21
+  /b3835bb6: C14
+  /9793010d: RN1
+  /6d53dc11: Q1
+  /0966f601: L2
+  /c83c63bb: C11
+  /78f070d9: C20
+  /7aa86a50: SW2
+  /e5e65919: C4
+  /87e51d6a: R8
+  /5cb102e4: R22
+  /86f0431c: C2
+  /d41f411e: C1
+  /0b3f52a6: C10
+  /025f244e: Y1
+  /435ea7a4: C18
+  /7da8433c: C15
+  /013d3fb5: R17
+  /6e7e6ff3: C17
+  /4405b407: Q2
+  /7600510d: AE1
+  /bd5fc71a: C6
+  /01650736: L1
+  /f0e083d6: R18
+  /e2429ad4: U3
+  /9ed0d4b9: U2
+  /6d807fa8: C13
+  /9bb3d568: C5
+  /bd70d095: R7
+  /857a6973: R15
+  /55198dea: C16
+  /fee05b4e: R20
+  /78cfd2c5: C7

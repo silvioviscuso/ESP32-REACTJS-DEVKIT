@@ -1,8 +1,9 @@
 {
+  "active_layer": 0,
   "board": {
-    "active_layer": 0,
+    "active_layer": 31,
     "active_layer_preset": "",
-    "auto_track_width": false,
+    "auto_track_width": true,
     "hidden_netclasses": [],
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -14,12 +15,13 @@
       "vias": 1.0,
       "zones": 1.0
     },
+    "ratsnest_display_mode": 0,
     "selection_filter": {
       "dimensions": true,
       "footprints": true,
       "graphics": true,
       "keepouts": true,
-      "lockedItems": false,
+      "lockedItems": true,
       "otherItems": true,
       "pads": true,
       "text": true,
@@ -34,37 +36,29 @@
       3,
       4,
       5,
-      7,
+      6,
+      8,
       9,
       10,
       11,
       12,
       13,
+      14,
       15,
       16,
-      17,
-      18,
       19,
       20,
       21,
       22,
-      23,
-      24,
       25,
-      26,
-      27,
-      28,
-      29,
       30,
       32,
       33,
       34,
       35,
-      36,
-      37,
-      40
+      38
     ],
-    "visible_layers": "ffcffff_ffffffff",
+    "visible_layers": "003ffbc_80000007",
     "zone_display_mode": 0
   },
   "git": {
@@ -73,8 +67,9 @@
     "repo_username": "",
     "ssh_key": ""
   },
+  "hidden_nets": [],
   "meta": {
-    "filename": "V1.kicad_prl",
+    "filename": "obsidian-boa-r0.1.kicad_prl",
     "version": 3
   },
   "project": {
