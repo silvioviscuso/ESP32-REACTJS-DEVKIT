@@ -1,0 +1,218 @@
+(footprint "LED_0603_1608Metric_Compact"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
+	(tags "diode")
+	(property "Reference" "REF**"
+		(at -0.8 0.9 0)
+		(layer "F.SilkS")
+		(uuid "0abbe029-4016-4ef0-bdbd-ab972400580d")
+		(effects
+			(font
+				(size 0.3 0.3)
+				(thickness 0.075)
+			)
+		)
+	)
+	(property "Value" "BLU"
+		(at 0 1.43 180)
+		(layer "F.Fab")
+		(uuid "4e8c8b38-2c97-4b0f-ba7b-e11b767336e6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "obsidian-boa:LED_0603_1608Metric_Compact"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "778d91d0-1872-4a7d-94d7-b7901e01cc6b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "799d3f2e-bc79-49ee-98a2-0b55c403e2c5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "d88b567f-0c24-44a1-91fe-f0cc8b9e18c4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mfg" "Lite-On Inc."
+		(at 0 0 180)
+		(layer "F.Fab")
+		(uuid "2f6c1fea-0c7e-4377-aaae-8cb0ec548c06")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PN" "LTST-C191TBKT"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(uuid "60669cd7-9e80-447f-b2e8-c3b8dc3c0658")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.21 -0.58)
+		(end 1.19 -0.58)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c6b01c74-75e8-4c36-8799-a1a2e829dd23")
+	)
+	(fp_line
+		(start -1.21 0.59)
+		(end -1.21 -0.58)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "43da1e8c-146f-44d2-b9af-d537c8069f61")
+	)
+	(fp_line
+		(start 1.19 -0.58)
+		(end 1.19 0.59)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "903f26df-d1de-4d75-b5da-2496543e29ab")
+	)
+	(fp_line
+		(start 1.19 0.59)
+		(end -1.21 0.59)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5c8152ae-e531-447d-a06a-b67a8f1f443e")
+	)
+	(fp_line
+		(start -0.8 -0.1)
+		(end -0.8 0.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5b900c32-a667-494a-9bf4-112bba81ffce")
+	)
+	(fp_line
+		(start -0.8 0.4)
+		(end 0.8 0.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "67768434-0c59-48e3-ae2d-d61cfc3c9986")
+	)
+	(fp_line
+		(start -0.5 -0.4)
+		(end -0.8 -0.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5ef17773-654d-46c3-ae85-80db6f75e08f")
+	)
+	(fp_line
+		(start 0.8 -0.4)
+		(end -0.5 -0.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "07e98992-4256-429e-998e-81c09e02c532")
+	)
+	(fp_line
+		(start 0.8 0.4)
+		(end 0.8 -0.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "002432aa-3afa-46fd-8401-f8b8e0a83916")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c72b01f4-b7b4-4f2a-a893-1cf62be3ad6e")
+		(effects
+			(font
+				(size 0.4 0.4)
+				(thickness 0.06)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -0.5875 0)
+		(size 0.775 0.95)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(solder_paste_margin_ratio -0.05)
+		(uuid "a87d1b5c-01c6-4ee2-a808-ad87bf83d0da")
+	)
+	(pad "2" smd roundrect
+		(at 0.5875 0)
+		(size 0.775 0.95)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(solder_paste_margin_ratio -0.05)
+		(uuid "b0f9bb74-bef7-4b27-bce4-e2af64bad7e0")
+	)
+	(model "${KISYS3DMOD}/LED_SMD.3dshapes/LED_0603_1608Metric.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
