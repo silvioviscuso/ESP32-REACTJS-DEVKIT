@@ -1,0 +1,153 @@
+(footprint "Pin_Header_Straight_Round_1x01_Castellated"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(locked yes)
+	(layer "F.Cu")
+	(descr "Through hole pin header with castellation")
+	(tags "pin header")
+	(property "Reference" "REF**"
+		(at 0 -5.1 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9c015e23-255d-45a5-8b1c-a9d10bdd4f1c")
+		(effects
+			(font
+				(size 0.625 0.625)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "16"
+		(at 0 -3.1 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bb1e51f0-42c1-4823-bc28-1ecdb57abe9a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "pkl_pin_headers:Pin_Header_Straight_Round_1x01_Castellated"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e731fbe5-91ec-443e-a004-a832931bf5f5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0d50b943-75d5-452c-8987-e50b504fff83")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "80f2ba6e-88dc-4251-b960-d09381f568f0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Source" "ANY"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "68ebab60-ffa2-4052-be42-498344ed4333")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -1.25 -1.25)
+		(end -1.25 1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b71cbdf1-45d0-4201-aa21-009887193b52")
+	)
+	(fp_line
+		(start -1.25 -1.25)
+		(end 1.25 -1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9fd67fc1-a2be-4ece-a443-c05e62bd7350")
+	)
+	(fp_line
+		(start -1.25 1.25)
+		(end 1.25 1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7ec555dc-956d-41ab-bca8-26c21d18127d")
+	)
+	(fp_line
+		(start 1.25 -1.25)
+		(end 1.25 1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "78cd673d-0c96-469f-a752-3defaaa56b72")
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.5 1.5)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "0161c301-a9e4-4251-9e32-4c2a031182cc")
+	)
+	(pad "1" smd rect
+		(at 0 0.635)
+		(size 1.524 1.27)
+		(layers "F.Cu" "F.Mask")
+		(uuid "e26ab422-2e25-458e-990a-3b11cf82e235")
+	)
+	(pad "1" smd rect
+		(at 0 0.635)
+		(size 1.524 1.27)
+		(layers "B.Cu" "B.Mask")
+		(uuid "5caa386c-aa66-4b6e-8f2a-2753c75e0c58")
+	)
+	(pad "1" thru_hole circle
+		(at 0 1.27)
+		(size 1.5 1.5)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "9cbd4101-ba22-457d-ad61-536847fe5c87")
+	)
+)
