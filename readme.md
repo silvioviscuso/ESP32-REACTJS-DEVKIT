@@ -1,4 +1,4 @@
-![ESP32-REACTJS-DEVKIT](assets/banner.jpg)
+![ESP32-REACTJS-DEVKIT](Assets/banner.jpg)
 
 # ESP32-REACTJS-DEVKIT
 
@@ -20,7 +20,7 @@
 
 ---
 ## Preview
-![Preview 2](assets/2.png)
+![Preview 2](Assets/2.png)
 ---
 
 ## 🛠️ Requirements
