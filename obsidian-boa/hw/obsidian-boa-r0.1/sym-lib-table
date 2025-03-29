@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name "obsidian-boa")(type "KiCad")(uri "${KIPRJMOD}/../lib/obsidian-boa.kicad_sym")(options "")(descr ""))
-)
