@@ -5,6 +5,11 @@
 ## 📖 Description
 **ESP32-REACTJS-DEVKIT** is an ultra-compact board based on **ESP32-D0WDQ6** with **16MB of Flash RAM**, designed for **robotics, IoT, and wearable** applications. Thanks to its small size and the power of the ESP32, it is ideal for advanced projects requiring wireless connectivity and high computational performance.
 
+### 📏 Dimensions
+- **Width:** 35mm  
+- **Height:** 18mm  
+- **Thickness:** 1mm  
+
 ## ⭐ Main Features
 - **Microcontroller:** ESP32-D0WDQ6
 - **Flash Memory:** 16MB
